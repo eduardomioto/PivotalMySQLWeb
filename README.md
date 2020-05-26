@@ -1,5 +1,9 @@
 # PivotalMySQLWeb
 
+[![Build Status](https://travis-ci.org/eduardomioto/PivotalMySQLWeb.svg?branch=master)](https://travis-ci.org/eduardomioto/PivotalMySQLWeb)
+
+--------------
+
 PivotalMySQLWeb is a free Pivotal open source project, intended to handle the administration of a Pivotal MySQL Service
 Instance over the Web. PivotalMySQLWeb supports a wide range of operations on a Pivotal MySQL Service Instance such as
 managing tables, views, indexes which can all be performed via the user interface, while you still have the ability to
